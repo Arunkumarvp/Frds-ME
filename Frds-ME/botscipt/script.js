@@ -50,8 +50,8 @@ let arr1 = [
 
     {
 
-        name: "do you have a boyfriend",
-        text: "nah, am single and happy"
+        name: "Suggest me a good course after HSC",
+        text: "B.Arch- Bachelor of Architecture,BE/B.Tech- Bachelor of Technology,BCA- Bachelor of Computer Applications,B.Sc - Information Technology,BPharma- Bachelor of Pharmacy,B.Sc- Interior Design,",
 
     },
 
